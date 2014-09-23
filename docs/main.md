@@ -15,8 +15,8 @@ Las funcionalidad para implementar en la aplicacion seran:
 - [ ] Recuperacion de contraseña (O)
 - [ ] Agregar un nuevo clip de sonido
 - [ ] Adicinar una nueva pista
-- [ ] Adicinar un clip a una pista
-- [ ] 
+- [ ] Adicinar un clip a una pista en un determinado tiempo
+- [ ] Silenciar una pista (O)
 
 *(O) - Caracteristica opcional*
 
