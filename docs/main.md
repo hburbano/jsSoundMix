@@ -7,8 +7,18 @@
 ###Idea
 
 ####Descripción general del proyecto - Resposable (DM-HB)
-Este proyecto pretende construir una aplicacion para la contruscicion de sonidos en linea, 
+Este proyecto pretende construir una aplicacion para la composicio en linea mediante clips de sonidos que podran ser subidos por el usuario.
+Las funcionalidad para implementar en la aplicacion seran:
 
+- [ ] Login
+- [ ] Registro
+- [ ] Recuperacion de contraseña (O)
+- [ ] Agregar un nuevo clip de sonido
+- [ ] Adicinar una nueva pista
+- [ ] Adicinar un clip a una pista
+- [ ] 
+
+*(O) - Caracteristica opcional*
 
 ####Objetivos - Resposable (DM)
 Informacion sobre los objetivos
@@ -77,11 +87,7 @@ Para la informacion correspondiente a la mezcla de pista y como estas se encuent
 
 ####Mapas de Navegación - Resposable (HB)
 Mapas de navegacion
-- [ ] Pagina de inicio a dos columnas
-  - [ ] Login
-      - [ ] Recuperar contraseña 
-  - [ ] Registro
-- [ ] Aplicacion
+
 
 
 ####Mockups - Resposable (HB)
