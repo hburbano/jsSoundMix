@@ -1,4 +1,4 @@
-##Documentacion general del proyecto
+##Documentación general del proyecto
 
 ###Colaboradores
 * Diego Montoya (DM)
@@ -6,26 +6,26 @@
 
 ###Idea
 
-####Descripción general del proyecto - Resposable (DM-HB)
-Este proyecto pretende construir una aplicacion para la composicio en linea mediante clips de sonidos que podran ser subidos por el usuario.
-Las funcionalidad para implementar en la aplicacion seran:
+####Descripción general del proyecto - Responsable (DM-HB)
+Este proyecto pretende construir una aplicación para la composición en linea mediante clips de sonidos que podrán ser subidos por el usuario.
+Las funcionalidad para implementar en la aplicación serán:
 
 - [ ] Login
 - [ ] Registro
-- [ ] Recuperacion de contraseña (O)
+- [ ] Recuperación de contraseña (O)
 - [ ] Agregar un nuevo clip de sonido
-- [ ] Adicinar una nueva pista
-- [ ] Adicinar un clip a una pista en un determinado tiempo
+- [ ] Adicionar una nueva pista
+- [ ] Adicionar un clip a una pista en un determinado tiempo
 - [ ] Silenciar una pista (O)
 
-*(O) - Caracteristica opcional*
+*(O) - Característica opcional*
 
-####Objetivos - Resposable (DM)
-Informacion sobre los objetivos
+####Objetivos - Responsable (DM)
+Información sobre los objetivos
 
 
-####Benchmarking - Resposable (DM)
-Informacion sobre el benchmarking
+####Benchmarking - Responsable (DM)
+Información sobre el benchmarking
 
 
 
@@ -73,31 +73,35 @@ Informacion sobre el benchmarking
 </table>
 
 ######Front end
-Con el conjuto de herramientas anteriormente descritas se desarrollara una aplicacion permitira al usuario mezclar archivos de audio sin la necesidad de instalar ningun plugin adicional.
-<br>*El alcance del proyecto en cuanto a compatibilidad de navegadores esta limitado a funcionar en la ultima version de Google Chrome.*
+Con el conjunto de herramientas anteriormente descritas se desarrollara una aplicación permitirá al usuario mezclar archivos de audio sin la necesidad de instalar ningún plugin adicional.
+<br>*El alcance del proyecto en cuanto a compatibilidad de navegadores esta limitado a funcionar en la ultima versión de Google Chrome.*
 
 ######Back end
-Se piensa implementar mediante Yii una API rest con la funcinaldad requeridad.
+Se piensa implementar mediante Yii una API rest con la funcionalidad requerida.
 
 ######Bases de datos
-Para la informacion correspondiente a la mezcla de pista y como estas se encuentran organizadas en una composicion se piensa utilizar MySQL.  
+Para la información correspondiente a la mezcla de pista y como estas se encuentran organizadas en una composición se piensa utilizar MySQL.  
 
 
 ###Diseño
 
 ####Mapas de Navegación - Resposable (HB)
-Mapas de navegacion
-
-
-
-####Mockups - Resposable (HB)
+Mapas de navegación
 
 - [ ] Pagina de inicio a dos columnas
   - [ ] Login
       - [ ] Recuperar contraseña 
   - [ ] Registro
 - [ ] Aplicacion
+  - [ ]   
 
+
+####Mockups - Resposable (HB)
+
+###### Pagina del login
+![](media/Index.png)
+###### Pagina del la aplicación
+![](media/App.png)
 ####Diagrama de Despliegue - Resposable (DM)
 Seria solo el navegador con su aplicacion, el servidor con PHP y ahi mismo la base de datos.
 
