@@ -55,8 +55,23 @@ Los objetivos a lograr en este proyecto son:
 
 
 
-<!--- #### Benchmarking - Responsable (DM)  
-Información sobre el benchmarking -->
+#### Benchmarking - Responsable (DM)  
+<table>
+<thread>
+  <tr>
+    <th>Aplicaciones similares</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <th>                     </th>
+    <th>                     </th>
+  </tr>
+  <tr>
+    <th>                     </th>
+    <th>                     </th>
+  </tr>
+</thread>
+</table>
 
 
 #### Tecnologías a utilizar - Responsable (DM-HB)
