@@ -76,6 +76,10 @@ Los objetivos a lograr en este proyecto son:
       <th>http://www.mixify.com/</th>
       <th>                     </th>
     </tr>
+    <tr>
+      <th>http://audio-joiner.com/</th>
+      <th>                     </th>
+    </tr>
   </tbody>
 </table>
 
