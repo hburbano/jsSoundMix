@@ -127,7 +127,7 @@ Mapas de navegación
 ![](media/Index.png)
 ###### Pagina del la aplicación
 ![](media/App.png)
-#### Diagrama de Despliegue - Responsable (DM)
-Seria solo el navegador con su aplicación, el servidor con PHP y ahí mismo la base de datos.
+###### Diagrama de Despliegue - Responsable (DM)
+![](media/diagramaDespliegue.png)
 
-#### Bibliografía
+###### Bibliografía
