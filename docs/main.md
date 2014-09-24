@@ -57,20 +57,26 @@ Los objetivos a lograr en este proyecto son:
 
 #### Benchmarking - Responsable (DM)  
 <table>
-<thread>
-  <tr>
-    <th>Aplicaciones similares</th>
-    <th>Descripción</th>
-  </tr>
-  <tr>
-    <th>                     </th>
-    <th>                     </th>
-  </tr>
-  <tr>
-    <th>                     </th>
-    <th>                     </th>
-  </tr>
-</thread>
+  <thread>
+    <tr>
+      <th>Aplicaciones similares</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>http://soundation.com</th>
+      <th>                     </th>
+    </tr>
+    <tr>
+      <th>http://www.partycloud.fm</th>
+      <th>                     </th>
+    </tr>
+    <tr>
+      <th>http://www.mixify.com/</th>
+      <th>                     </th>
+    </tr>
+  </tbody>
 </table>
 
 
