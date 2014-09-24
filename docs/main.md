@@ -41,16 +41,22 @@ Las funcionalidad para implementar en la aplicación serán:
 - [ ] Adicionar una nueva pista
 - [ ] Adicionar un clip a una pista en un determinado tiempo
 - [ ] Silenciar una pista (O)
+- [ ] Compartir la pista en redes sociales (O)
 
 *(O) - Característica opcional*
 
 #### Objetivos - Responsable (DM)
-Información sobre los objetivos
+Los objetivos a lograr en este proyecto son:
+
+- [ ] Realizar una aplicación web en la cual podamos agregar clips de sonido a una pista, conjunto de hasta 5 clips (cada uno sería un instrumento musical), y poderlas escuchar en conjunto o por separado.
+- [ ] Se debe poder agregar, editar o eliminar pistas y su información relacionada.
+- [ ] El acceso a la aplicación web será mediante un loggeo de usuarios.
+- [ ] Debe tener una alta usabilidad para que en un futuro si se desea se pueda complementar la aplicación y que sea últil para la grabación de pistas de grupos musicales a distancia, es decir, cada integrante del grupo pueda grabar por separado su clip de sonido (su instrumento) y después subirlo a la aplicación para poder escuchar la pista que contiene los demás clips.
 
 
-#### Benchmarking - Responsable (DM)
-Información sobre el benchmarking
 
+<!--- #### Benchmarking - Responsable (DM)  
+Información sobre el benchmarking -->
 
 
 #### Tecnologías a utilizar - Responsable (DM-HB)
@@ -98,7 +104,7 @@ Información sobre el benchmarking
 
 ###### Front end
 Con el conjunto de herramientas anteriormente descritas se desarrollara una aplicación permitirá al usuario mezclar archivos de audio sin la necesidad de instalar ningún plugin adicional.
-<br>*El alcance del proyecto en cuanto a compatibilidad de navegadores esta limitado a funcionar en la ultima versión de Google Chrome.*
+<br>*El alcance del proyecto en cuanto a compatibilidad de navegadores está limitado a funcionar en la última versión de Google Chrome.*
 
 ###### Back end
 Se piensa implementar mediante Yii una API REST con la funcionalidad requerida.
