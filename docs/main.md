@@ -1,12 +1,36 @@
-##Documentación general del proyecto
+## Documentación general del proyecto
 
-###Colaboradores
+### Tabla de contenidos
+
+<!-- MarkdownTOC depth=0 -->
+
+- Colaboradores
+- Idea
+  - Descripción general del proyecto - Responsable (DM-HB)
+  - Objetivos - Responsable (DM)
+  - Benchmarking - Responsable (DM)
+  - Tecnologías a utilizar - Responsable (DM-HB)
+    - Front end
+    - Back end
+    - Bases de datos
+- Diseño
+  - Mapas de Navegación - Responsable (HB)
+  - Mockups - Responsable (HB)
+    - Pagina del login
+    - Pagina del la aplicación
+  - Diagrama de Despliegue - Responsable (DM)
+  - Bibliografía
+
+<!-- /MarkdownTOC -->
+
+
+### Colaboradores
 * Diego Montoya (DM)
 * Hans Burbano (HB)
 
-###Idea
+### Idea
 
-####Descripción general del proyecto - Responsable (DM-HB)
+#### Descripción general del proyecto - Responsable (DM-HB)
 Este proyecto pretende construir una aplicación para la composición en linea mediante clips de sonidos que podrán ser subidos por el usuario.
 Las funcionalidad para implementar en la aplicación serán:
 
@@ -20,16 +44,16 @@ Las funcionalidad para implementar en la aplicación serán:
 
 *(O) - Característica opcional*
 
-####Objetivos - Responsable (DM)
+#### Objetivos - Responsable (DM)
 Información sobre los objetivos
 
 
-####Benchmarking - Responsable (DM)
+#### Benchmarking - Responsable (DM)
 Información sobre el benchmarking
 
 
 
-####Tecnologías a utilizar - Responsable (DM-HB)
+#### Tecnologías a utilizar - Responsable (DM-HB)
 
 <table>
   <thead>
@@ -72,37 +96,38 @@ Información sobre el benchmarking
   </tbody>
 </table>
 
-######Front end
+###### Front end
 Con el conjunto de herramientas anteriormente descritas se desarrollara una aplicación permitirá al usuario mezclar archivos de audio sin la necesidad de instalar ningún plugin adicional.
 <br>*El alcance del proyecto en cuanto a compatibilidad de navegadores esta limitado a funcionar en la ultima versión de Google Chrome.*
 
-######Back end
-Se piensa implementar mediante Yii una API rest con la funcionalidad requerida.
+###### Back end
+Se piensa implementar mediante Yii una API REST con la funcionalidad requerida.
 
-######Bases de datos
+###### Bases de datos
 Para la información correspondiente a la mezcla de pista y como estas se encuentran organizadas en una composición se piensa utilizar MySQL.  
 
 
-###Diseño
+### Diseño
 
-####Mapas de Navegación - Resposable (HB)
+#### Mapas de Navegación - Responsable (HB)
 Mapas de navegación
 
 - [ ] Pagina de inicio a dos columnas
   - [ ] Login
       - [ ] Recuperar contraseña 
   - [ ] Registro
-- [ ] Aplicacion
-  - [ ]   
+- [ ] Aplicación
+  - [ ] Agregar clips/archivos
+  - [ ] 
 
 
-####Mockups - Resposable (HB)
+#### Mockups - Responsable (HB)
 
 ###### Pagina del login
 ![](media/Index.png)
 ###### Pagina del la aplicación
 ![](media/App.png)
-####Diagrama de Despliegue - Resposable (DM)
-Seria solo el navegador con su aplicacion, el servidor con PHP y ahi mismo la base de datos.
+#### Diagrama de Despliegue - Responsable (DM)
+Seria solo el navegador con su aplicación, el servidor con PHP y ahí mismo la base de datos.
 
-####Biliografia
+#### Bibliografía
