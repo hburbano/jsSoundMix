@@ -51,9 +51,6 @@ El enfoque utilizado para nuestra aplicación será el patrón Audacity y preten
 - [ ] Compartir la pista en redes sociales (O)
 - [ ] Permite descargar las composiciones creadas (O)
 
-
-
-
 *(O) - Característica opcional*
 
 #### Objetivos - Responsable (DM)
@@ -68,30 +65,11 @@ Los objetivos a lograr en este proyecto son:
 
 #### Benchmarking - Responsable (DM)
 
-
-<table>
-  <thread>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>[Soundation](http://soundation.com)</th>
-      <th>Enfoque Audacity</th>
-    </tr>
-    <tr>
-      <th>[Party Cloud](http://www.partycloud.fm)</th>
-      <th>Enfoque DJ</th>
-    </tr>
-    <tr>
-      <th>[Mixifi](http://www.mixify.com)</th>
-      <th>Enfoque DJ</th>
-    </tr>
-  </tbody>
-</table>
-
+|Aplicacion|Caracteristicas|
+|-------------------------------|------------|
+|[Soundation](http://soundation.com)|Enfoque Audacity|
+|[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|
+|[Mixifi](http://www.mixify.com)|Enfoque DJ|
 
 
 #### Tecnologías a utilizar - Responsable (DM-HB)
