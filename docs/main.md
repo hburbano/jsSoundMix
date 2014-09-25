@@ -47,6 +47,11 @@ El enfoque utilizado para nuestra aplicación será el patrón Audacity y preten
 - [ ] Adicionar una nueva pista
 - [ ] Adicionar un clip a una pista en un determinado tiempo
 - [ ] Modificar la posición temporal del clip en el tiempo
+- [ ] Repreducir la pista 
+- [ ] Abrir una nueva composicion previamente guardada 
+- [ ] Guardar la composicion
+- [ ] Borrar la composicion
+- [ ] Crear una nueva composicion
 - [ ] Silenciar una pista (O)
 - [ ] Compartir la pista en redes sociales (O)
 - [ ] Permite descargar las composiciones creadas (O)
@@ -134,7 +139,12 @@ Mapas de navegación
 - [ ] Aplicación
   - [ ] Agregar clips/archivos
   - [ ] Modificar posición temporal
+  - [ ] Reproducir pista
   - [ ] Silenciar pista
+  - [ ] Abrir una nueva composicion previamente guardada 
+  - [ ] Guardar la composicion
+  - [ ] Borrar la composicion
+  - [ ] Crear una nueva composicion
 
 
 #### Mockups - Responsable (HB)
