@@ -18,8 +18,8 @@
   - Mockups - Responsable (HB)
     - Pagina del login
     - Pagina del la aplicación
-  - Diagrama de Despliegue - Responsable (DM)
-  - Bibliografía
+    - Diagrama de Despliegue - Responsable (DM)
+    - Bibliografía
 
 <!-- /MarkdownTOC -->
 
@@ -76,12 +76,9 @@ Los objetivos a lograr en este proyecto son:
       <th>http://www.mixify.com/</th>
       <th>                     </th>
     </tr>
-    <tr>
-      <th>http://audio-joiner.com/</th>
-      <th>                     </th>
-    </tr>
   </tbody>
 </table>
+
 
 
 #### Tecnologías a utilizar - Responsable (DM-HB)
