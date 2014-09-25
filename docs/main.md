@@ -31,7 +31,7 @@
 ### Idea
 
 #### Descripción general del proyecto - Responsable (DM-HB)
-Este proyecto pretende construir una aplicación para la composición en linea mediante clips de sonidos que podrán ser subidos por el usuario.
+Este proyecto pretende construir una aplicación para la composición en línea mediante clips de sonidos que podrán ser subidos por el usuario.
 
 Existen dos enfoques/patrones de diseño populares para este tipo de aplicaciones:
 
@@ -112,14 +112,14 @@ Los objetivos a lograr en este proyecto son:
 </table>
 
 ###### Front end
-Con el conjunto de herramientas anteriormente descritas se desarrollara una aplicación permitirá al usuario mezclar archivos de audio sin la necesidad de instalar ningún plugin adicional.
+Con el conjunto de herramientas anteriormente descritas se desarrollará una aplicación que permitirá al usuario mezclar archivos de audio sin la necesidad de instalar ningún plugin adicional.
 <br>*El alcance del proyecto en cuanto a compatibilidad de navegadores está limitado a funcionar en la última versión de Google Chrome.*
 
 ###### Back end
-Se piensa implementar mediante Yii una API REST con la funcionalidad requerida.
+Se piensa implementar mediante el framework Yii una API REST con la funcionalidad requerida.
 
 ###### Bases de datos
-Para la información correspondiente a la mezcla de pista y como estas se encuentran organizadas en una composición se piensa utilizar MySQL.  
+Para la información correspondiente a la mezcla de pista y como éstas se encuentran organizadas en una composición. Se piensa utilizar la base de datos MySQL.  
 
 
 ### Diseño
@@ -127,7 +127,7 @@ Para la información correspondiente a la mezcla de pista y como estas se encuen
 #### Mapas de Navegación - Responsable (HB)
 Mapas de navegación
 
-- [ ] Pagina de inicio a dos columnas
+- [ ] Página de inicio a dos columnas
   - [ ] Login
       - [ ] Recuperar contraseña 
   - [ ] Registro
@@ -139,9 +139,9 @@ Mapas de navegación
 
 #### Mockups - Responsable (HB)
 
-###### Pagina del login
+###### Página del login
 ![](media/Index.png)
-###### Pagina del la aplicación
+###### Página de la aplicación
 ![](media/App.png)
 ###### Diagrama de Despliegue - Responsable (DM)
 ![](media/diagramaDespliegue.png)
