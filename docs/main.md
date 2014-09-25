@@ -66,7 +66,7 @@ Los objetivos a lograr en este proyecto son:
 #### Benchmarking - Responsable (DM)
 
 |Aplicacion|Caracteristicas|Observaciones|
-|-------------------------------|------------|
+|-----------------------|--------|------------|
 |[Soundation](http://soundation.com)|Enfoque Audacity|*|
 |[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|*|
 |[Mixifi](http://www.mixify.com)|Enfoque DJ|*|
