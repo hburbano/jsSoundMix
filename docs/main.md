@@ -70,7 +70,7 @@ Los objetivos a lograr en este proyecto son:
 
 #### Benchmarking - Responsable (DM)
 
-|Aplicacion|Caracteristicas|Observaciones|
+|Aplicación|Características|Observaciones|
 |-----------------------|--------|------------|
 |[Soundation](http://soundation.com)|Enfoque Audacity|Secuenciador en línea que permite mezclar varias pistas y aplicar efectos sobre ellas|
 |[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|Simulador de DJ en línea que te permite mezclar dos canciones e interactuar con ellas en una consola de DJ virtual|
