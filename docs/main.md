@@ -38,7 +38,7 @@ Existen dos enfoques/patrones de diseño populares para este tipo de aplicacione
 * Enfoque DJ
 * Enfoque Audacity
 
-Las funcionalidad para implementar en la aplicación serán:
+El enfoque utilizado para nuestra aplicación será el patrón Audacity y pretendemos integrar la siguiente funcionalidad:
 
 - [ ] Login
 - [ ] Registro
@@ -46,9 +46,11 @@ Las funcionalidad para implementar en la aplicación serán:
 - [ ] Agregar un nuevo clip de sonido
 - [ ] Adicionar una nueva pista
 - [ ] Adicionar un clip a una pista en un determinado tiempo
+- [ ] Modificar la posición temporal del clip en el tiempo
 - [ ] Silenciar una pista (O)
 - [ ] Compartir la pista en redes sociales (O)
 - [ ] Permite descargar las composiciones creadas (O)
+
 
 
 
@@ -64,25 +66,27 @@ Los objetivos a lograr en este proyecto son:
 
 
 
-#### Benchmarking - Responsable (DM)  
+#### Benchmarking - Responsable (DM)
+
+
 <table>
   <thread>
     <tr>
-      <th>Aplicaciones similares</th>
-      <th>Descripción</th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>(Soundation)[http://soundation.com]</th>
+      <th>[Soundation](http://soundation.com)</th>
       <th>Enfoque Audacity</th>
     </tr>
     <tr>
-      <th>(Party Cloud)[http://www.partycloud.fm]</th>
+      <th>[Party Cloud](http://www.partycloud.fm)</th>
       <th>Enfoque DJ</th>
     </tr>
     <tr>
-      <th>(Mixifi)[http://www.mixify.com]</th>
+      <th>[Mixifi](http://www.mixify.com)</th>
       <th>Enfoque DJ</th>
     </tr>
   </tbody>
