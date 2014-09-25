@@ -32,6 +32,12 @@
 
 #### Descripción general del proyecto - Responsable (DM-HB)
 Este proyecto pretende construir una aplicación para la composición en linea mediante clips de sonidos que podrán ser subidos por el usuario.
+
+Existen dos enfoques/patrones de diseño populares para este tipo de aplicaciones:
+
+* Enfoque DJ
+* Enfoque Audacity
+
 Las funcionalidad para implementar en la aplicación serán:
 
 - [ ] Login
@@ -42,6 +48,9 @@ Las funcionalidad para implementar en la aplicación serán:
 - [ ] Adicionar un clip a una pista en un determinado tiempo
 - [ ] Silenciar una pista (O)
 - [ ] Compartir la pista en redes sociales (O)
+- [ ] Permite descargar las composiciones creadas (O)
+
+
 
 *(O) - Característica opcional*
 
@@ -65,16 +74,16 @@ Los objetivos a lograr en este proyecto son:
   </thead>
   <tbody>
     <tr>
-      <th>http://soundation.com</th>
-      <th>                     </th>
+      <th>(Soundation)[http://soundation.com]</th>
+      <th>Enfoque Audacity</th>
     </tr>
     <tr>
-      <th>http://www.partycloud.fm</th>
-      <th>                     </th>
+      <th>(Party Cloud)[http://www.partycloud.fm]</th>
+      <th>Enfoque DJ</th>
     </tr>
     <tr>
-      <th>http://www.mixify.com/</th>
-      <th>                     </th>
+      <th>(Mixifi)[http://www.mixify.com]</th>
+      <th>Enfoque DJ</th>
     </tr>
   </tbody>
 </table>
