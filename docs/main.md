@@ -67,9 +67,10 @@ Los objetivos a lograr en este proyecto son:
 
 |Aplicacion|Caracteristicas|Observaciones|
 |-----------------------|--------|------------|
-|[Soundation](http://soundation.com)|Enfoque Audacity|*|
-|[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|*|
-|[Mixifi](http://www.mixify.com)|Enfoque DJ|*|
+|[Soundation](http://soundation.com)|Enfoque Audacity|Secuenciador en línea que permite mezclar varias pistas y aplicar efectos sobre ellas|
+|[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|Simulador de DJ en línea que te permite mezclar dos canciones e interactuar con ellas en una consola de DJ virtual|
+|[Mixifi](http://www.mixify.com)|Enfoque DJ|Simulador de DJ en línea que te permite realizar mezclas y realizar streaming en tiempo real de lo que estás mezclando|
+|[Auto Joiner](http://audio-joiner.com)|Enfoque Audacity|Secuenciador en línea que te permite unir varias pistas ya sean pistas que tienes guardadas en tu PC o mediante un micrófono grabarlas en línea y unirlas|
 
 
 #### Tecnologías a utilizar - Responsable (DM-HB)
