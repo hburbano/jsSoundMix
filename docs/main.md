@@ -65,11 +65,11 @@ Los objetivos a lograr en este proyecto son:
 
 #### Benchmarking - Responsable (DM)
 
-|Aplicacion|Caracteristicas|
+|Aplicacion|Caracteristicas|Observaciones|
 |-------------------------------|------------|
-|[Soundation](http://soundation.com)|Enfoque Audacity|
-|[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|
-|[Mixifi](http://www.mixify.com)|Enfoque DJ|
+|[Soundation](http://soundation.com)|Enfoque Audacity|*|
+|[Party Cloud](http://www.partycloud.fm)|Enfoque DJ|*|
+|[Mixifi](http://www.mixify.com)|Enfoque DJ|*|
 
 
 #### Tecnologías a utilizar - Responsable (DM-HB)
@@ -86,31 +86,26 @@ Los objetivos a lograr en este proyecto son:
     <tr>
       <td>HTML5</td>
       <td>PHP</td>
-      <td>MySQL</td>
+      <td rowspan="6">MySQL</td>
     </tr>
     <tr>
       <td>JavaScript</td>
       <td>Yii</td>
-      <td></td>
     </tr>
     <tr>
       <td>jQuery</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Twitter BS</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>CSS</td>
       <td></td>
-      <td></td>
     </tr>  
     <tr>
-      <td colspan="2" align="center">REST - JSON</td>
-      <td></td>
+      <td colspan="2" align="center">REST - JSON</td>      
     </tr>   
   </tbody>
 </table>
@@ -137,7 +132,8 @@ Mapas de navegación
   - [ ] Registro
 - [ ] Aplicación
   - [ ] Agregar clips/archivos
-  - [ ] 
+  - [ ] Modificar posición temporal
+  - [ ] Silenciar pista
 
 
 #### Mockups - Responsable (HB)
