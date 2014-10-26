@@ -1,3 +1,8 @@
-#SublimeProjectFiles
-jsSoundMix.sublime-workspace
+node_modules
+public
+*.sublime-project
+.tmp
 .idea
+client/bower_components
+dist
+/server/config/local.env.js
