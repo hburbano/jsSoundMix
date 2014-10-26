@@ -1,0 +1,859 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"panel-",
+				"panel-heading	 bootstrap.css"
+			],
+			[
+				"bs3pa",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"list-group-item-",
+				"list-group-item-danger	 bootstrap.css"
+			],
+			[
+				"list-group-item",
+				"list-group-item-heading	 bootstrap.css"
+			],
+			[
+				"navbar",
+				"navbar-nav	 bootstrap-theme.min.css"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"contain",
+				"container-fluid	 bootstrap.css"
+			],
+			[
+				"bs3c",
+				"bs3-col:3	bs3-col-3"
+			],
+			[
+				"rig",
+				"text-right	 bootstrap.min.css"
+			],
+			[
+				"ri",
+				"navbar-right	 bootstrap.css"
+			],
+			[
+				"navbar-nav",
+				"navbar-nav	 bootstrap-theme.css"
+			],
+			[
+				"sp",
+				"span	<span>"
+			],
+			[
+				"lin",
+				"link	link - stylesheet"
+			],
+			[
+				"li",
+				"link	link - stylesheet"
+			],
+			[
+				"bs3-c",
+				"bs3-col	bs3-col"
+			],
+			[
+				"bs3cd",
+				"bs3-cdn:css	bs3-cdn-css"
+			],
+			[
+				"bs3",
+				"bs3-col	bs3-col"
+			],
+			[
+				"bs3-inp",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"bs-col",
+				"bs3-col:7	bs3-col-7"
+			],
+			[
+				"bs3-foot",
+				"bs3-panel:footer	bs3-panel-footer"
+			],
+			[
+				"bs3-h",
+				"bs3-page-header	bs3-page header"
+			],
+			[
+				"a",
+				"assets"
+			],
+			[
+				"GP",
+				"GPXLoader"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"da",
+				"data_count"
+			],
+			[
+				"lis",
+				"listgpxfiles"
+			],
+			[
+				"is",
+				"ISIDDLE"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"m",
+				"main	method (main)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packeo",
+				"Package Control: Enable Package"
+			],
+			[
+				"jsl",
+				"JSLint"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prew",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Stash"
+			],
+			[
+				"jslint",
+				"JSLint"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferen",
+				"Preferences: Settings - Default"
+			],
+			[
+				"preferense",
+				"Preferences: Settings - User"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"spellc",
+				"Google Spell Check"
+			],
+			[
+				"mardow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"QUI",
+				"Git: Quick Commit"
+			],
+			[
+				"SETTING",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"SETTINGS",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"MARKDOWN",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"EDITING",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"markdowne",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"commi",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"spell",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"goog",
+				"Google Spell Check"
+			],
+			[
+				"commit ",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"mardown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"forma",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"auto",
+				"Auto indent"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"linter",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"linte",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint current",
+				"File: New File Relative to Current View"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Add Repository"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 108.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"dir",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/equipo/Code/JS/jsSoundMix"
+	],
+	"file_history":
+	[
+		"/C/Users/equipo/Google Drive/AWS/Scripts/Usefull linux commands",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/js/init.js",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/index.html",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/custom.css",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/sticky-footer-navbar.css",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/bootstrap.css",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/audio/lava4.wav",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/Audventure.sublime-project",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/fonts/glyphicons-halflings-regular.svg",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/js/bootstrap.js",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/js/bufferloader.js",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/equipo/Google Drive/PUJ/2014-02/Tecnologias Multimedia/Taller 2/web audio/index.html",
+		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/cover.css",
+		"/C/Users/equipo/Google Drive/Code/JS/ZombieEscape/index.html",
+		"/C/Users/equipo/Google Drive/Code/JS/ZombieEscape/PServer.bat",
+		"/C/Users/Administrador/AppData/Local/Opera Mail/Opera Mail/cache/sesn/opr00001.tmp",
+		"/C/Users/Administrador/AppData/Local/Opera Mail/Opera Mail/temporary_downloads/33757720141014.txt",
+		"/C/Users/Administrador/Desktop/52f7b977.att",
+		"/C/Users/Administrador/Desktop/52db306f.att",
+		"/C/Users/Administrador/AppData/Local/Opera Mail/Opera Mail/temporary_downloads/33757720141012.txt",
+		"/C/Users/Administrador/Desktop/53358766.att",
+		"/C/Users/Administrador/Desktop/53ea7e3e.att",
+		"/C/Users/Administrador/Desktop/54576848.att",
+		"/C/Users/Administrador/Desktop/53ea331b.att",
+		"/C/Users/Administrador/Desktop/540102c5.att",
+		"/C/Users/Administrador/Desktop/548a2d34.att",
+		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/P3Server.bat",
+		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/index.html",
+		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/python.bat",
+		"/C/Users/Administrador/Desktop/bases.txt",
+		"/C/Program Files (x86)/PuTTY/README.txt",
+		"/C/Users/Administrador/git/django-vagrant-base/Vagrantfile",
+		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/assets/js/bufferloader.js",
+		"/C/Users/Administrador/Desktop/Clima peru.txt",
+		"/Y/BASES/Tels.txt",
+		"/C/Users/Administrador/Desktop/Centros de costo.txt",
+		"/Y/list.txt",
+		"/C/Users/Administrador/Desktop/Mensajes OSC.txt",
+		"/C/Users/Administrador/Desktop/UN002029.txt",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/X/HMB/UN002029.txt",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/docs/main.md",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/README.md",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/index.html",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/assets/css/sticky-footer-navbar.css",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/assets/js/jquery-2.1.1.min.js",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/Administrador/Desktop/Spanish.dic.txt",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/app.html",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/app.php",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/index.php",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/docs/entregas.md",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/.gitignore",
+		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/docs/Text.md",
+		"/C/Users/Administrador/Google Drive/AWS/Scripts/installdjango",
+		"/Y/BASES/item.txt",
+		"/C/Users/Administrador/Google Drive/AWS/Scripts/Usefull linux commands",
+		"/C/Users/Administrador/Google Drive/AWS/Scripts/installdjangov3",
+		"/C/Users/Administrador/Google Drive/AWS/Scripts/installdjangocms",
+		"/Y/BASES/cc.txt",
+		"/Y/UNCCOSTO.DAT",
+		"/X/HMB/UFCG9P02.P01",
+		"/C/Users/Administrador/Desktop/CENTROS DE COSTO.TXT",
+		"/C/Users/Administrador/Desktop/ASD.txt",
+		"/C/Users/Administrador/Desktop/CENTROS DE COSTO.P01",
+		"/C/Users/Administrador/Google Drive/AWS/Scripts/installpptd",
+		"/C/Users/Administrador/Desktop/GPS/installpptd",
+		"/C/Users/Administrador/Desktop/GPS/GpxIddleTime.py",
+		"/C/Users/Administrador/Desktop/GPS/P02.gpx",
+		"/C/Users/Administrador/Desktop/tc.txt",
+		"/C/Users/Administrador/Desktop/GPS/GPXLoader.py",
+		"/C/Users/Administrador/Desktop/GPS/GPXDProcessor.py",
+		"/X/HMB/CG02072.P01",
+		"/C/Users/Administrador/Desktop/GPS/GPXLoader",
+		"/C/Users/Administrador/Desktop/GPS/P02.cvs",
+		"/C/Users/Administrador/Desktop/GPS/P01.gpx",
+		"/C/Users/Administrador/Desktop/GPS/gpx.cvs",
+		"/C/Users/Administrador/Desktop/GPS/red.cvs",
+		"/C/Users/Administrador/Desktop/GPS/P01 (1).gpx",
+		"/C/Users/Administrador/Desktop/GPS/Current.gpx",
+		"/D/.dropbox.device",
+		"/Y/re.txt",
+		"/X/HMB/UN003065.P01",
+		"/X/HMB/UFCG103B.P01",
+		"/C/Users/Administrador/Desktop/rodamientos.txt",
+		"/C/Users/Administrador/Desktop/Transipiales.txt",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_03/js/audio_base.js",
+		"/C/Users/Administrador/Desktop/Notas/Domain.txt",
+		"/C/Users/Administrador/Desktop/Notas/Pendietes.txt",
+		"/C/Users/Administrador/Desktop/Notas/Reductor.txt",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_02/index.html",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_03/index.html",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_02/js/audio_base.js",
+		"/C/Users/Administrador/Desktop/web audio/js/buffer-loader.js",
+		"/X/HMB/Codigos item.txt",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_03/js/RhythmSample.js",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_02/js/RhythmSample.js",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_01/js/init.js",
+		"/C/Users/Administrador/Desktop/web audio/index.html",
+		"/C/Users/Administrador/Desktop/web audio/server.bat",
+		"/C/Users/Administrador/Desktop/web audio/sftp-config.json",
+		"/C/Users/Administrador/Desktop/web audio/ejemplo_01/index.html",
+		"/C/Users/Administrador/Desktop/web audio/js/f",
+		"/C/Users/Administrador/Desktop/web audio/css/label.css",
+		"/C/Users/Administrador/Desktop/web audio/webaudio.sublime-project",
+		"/C/Users/Administrador/Desktop/web audio/css/button.css",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/hihat.wav",
+		"/C/Users/Administrador/Desktop/web audio/test.java",
+		"/C/Users/Administrador/Desktop/web audio/css/style.css",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/._.DS_Store",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/bateria.mp3",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/bg.mp3",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/guitarra.mp3",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/kick.wav",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/snare.wav",
+		"/C/Users/Administrador/Desktop/web audio/media/sound/solo.mp3"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-",
+			"\"",
+			":",
+			"go",
+			"</li>",
+			"</b>",
+			"<b>",
+			"<li class=\"list-group-item list-group-item-info\">",
+			"<li class=\"list-group-item list-group-item-info\"><b>",
+			"Va",
+			"4",
+			"8",
+			"3",
+			"9",
+			">\n",
+			"console",
+			"succ",
+			".html",
+			"	",
+			"MEDIDOR",
+			"	",
+			";",
+			"		",
+			"	",
+			" REF:",
+			" UND",
+			"	",
+			" 	",
+			"REF:",
+			"\"",
+			"TIPO DE ",
+			"CLO Asistente Compras - Mauricio B:",
+			"  ",
+			"│",
+			"W",
+			"│",
+			"0││",
+			"     ",
+			"         ",
+			"-",
+			"pasare",
+			"-----------------------------------------------------------------------------------------------------------------------------------",
+			"\n\n",
+			"",
+			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.",
+			"[h",
+			"[",
+			")",
+			"(",
+			"|",
+			"\n\n",
+			"\n ",
+			"\n",
+			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                    FECHA : 2014/09/24 |\n",
+			"	      \n",
+			"-",
+			"align=\"right\"",
+			"align=\"center\"",
+			"#",
+			"■ ",
+			"○ ",
+			"djangocms",
+			"guni",
+			"cms",
+			"chown",
+			"mezzanine",
+			"djangocms",
+			"chown",
+			"hello_django",
+			"djangocms",
+			"webapps/hello_django",
+			"webapps/hello_django/",
+			"\n\n ",
+			"\n ",
+			"",
+			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                    FECHA : 2014/09/19 |\n",
+			"+",
+			"---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                         FECHA : 2014/09/19 |\n",
+			"ngi",
+			"x",
+			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       10   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+",
+			"",
+			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       12   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+",
+			"*",
+			"'*",
+			"'",
+			"'*",
+			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |",
+			"*",
+			"",
+			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n",
+			"UND",
+			"ESERROR(",
+			"HALLAR",
+			"tubo",
+			"GU",
+			"GUAAD",
+			"palmeiras",
+			" ",
+			"CLO Asistente Compras - Mauricio B:",
+			"AGRO RE",
+			"AGROREPUES",
+			"-----------------------------------------------------------------------------------------------------------------------------------------\n| 20140909  14:49                                   SISTEMA INTEGRADO DE CONTABILIDAD                                                   |\n",
+			"valde",
+			"balde",
+			"fabr",
+			",",
+			"files",
+			"ALTA TEM",
+			"ALUM",
+			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                    FECHA : 2014/09/08 |\n| UN002029.P01                                   ** CATALOGO DE CENTROS DE COSTOS **                            HORA  :  7:46 PM   |\n|                                                                                                               PAGINA:        2   |\n| NIVEL DEL LISTADO: 8                                                                                                             |\n+----------------------------------------------------------------------------------------------------------------------------------+\n| C.COSTO  DESCRIPCION                              PADRE    T/D NIV  ANTERIOR POSTERIOR SECUENCIA          EMP C.O ESTADO GPO UNEG|\n+----------------------------------------------------------------------------------------------------------------------------------+",
+			"	1UND",
+			"•",
+			"6205",
+			"AMARILLO",
+			"verde",
+			"| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                         FECHA : 2014/09/08 |\n| UN003065.P01                                         ** CATALOGO DE ITEMS **                                       HORA  :  4:17 PM   |\n",
+			"corgi",
+			"4179",
+			"4770",
+			"4691",
+			"4689",
+			"4179",
+			",",
+			"<trkpt ",
+			"<gpx",
+			"source",
+			" source"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jsSoundMix.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"init",
+				"ejemplo_01\\js\\init.js"
+			],
+			[
+				"aud",
+				"ejemplo_03\\js\\audio_base.js"
+			],
+			[
+				"inde",
+				"ejemplo_03\\index.html"
+			],
+			[
+				"inte",
+				"ejemplo_01\\index.html"
+			],
+			[
+				"se",
+				"server.bat"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
