@@ -1,0 +1,38 @@
+<div ng-include="'components/navbar/navbar.html'"></div>
+
+<div class="container-fluid">
+
+    <div class="row">
+
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    Audio files
+                </div>
+
+                <div  class="panel-footer">
+                    <form role="form">
+                        <div class="input-group">
+                            <span class="input-group-btn">
+                                <span class="btn btn-primary btn-file">
+                                    Browse
+                                    <input type="file" name="file" onchange="angular.element(this).scope().uploadFile(this.files)">
+                                </span>
+                            </span>
+                                <input type="text" class="form-control" readonly>
+                        </div>
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<div ng-include="'components/footer/footer.html'"></div>
