@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"for",
+				"form	<form>"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
 				"scr",
 				"script	Tag"
 			],
@@ -128,11 +144,38 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "client/app/soundMixer/soundMixer.js",
 			"settings":
 			{
-				"buffer_size": 87,
+				"buffer_size": 350,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "'use strict';\n\nangular.module('jsSoundMixApp')\n  .controller('SoundmixerCtrl', function ($scope) {\n    $scope.message = 'Hello';\n  });\n",
+			"file": "client/app/soundMixer/soundMixer.controller.js",
+			"file_size": 172,
+			"file_write_time": 130602605548036119,
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 21058,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/app/app.js",
+			"settings":
+			{
+				"buffer_size": 1612,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -143,15 +186,131 @@
 		"selected_items":
 		[
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"prett",
 				"HTMLPrettify"
 			],
 			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
 				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"addr",
+				"Package Control: Add Repository"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"sublimelinter settings user",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lint",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimet",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"jslint",
+				"JSLint"
+			],
+			[
+				"linter",
+				"SublimeLinter: Create Linter Plugin"
+			],
+			[
+				"lintter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -163,23 +322,7 @@
 				"JSLint"
 			],
 			[
-				"pretty",
-				"HTMLPrettify"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"insl",
-				"Package Control: Install Package"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -211,14 +354,6 @@
 				"Markdown Preview: Preview in Browser"
 			],
 			[
-				"disa",
-				"Package Control: Disable Package"
-			],
-			[
-				"disable",
-				"Package Control: Disable Package"
-			],
-			[
 				"packa",
 				"Package Control: Install Package"
 			],
@@ -231,16 +366,8 @@
 				"Git: Stash"
 			],
 			[
-				"jslint",
-				"JSLint"
-			],
-			[
 				"ena",
 				"Package Control: Enable Package"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
 			],
 			[
 				"preferen",
@@ -343,20 +470,12 @@
 				"SublimeCodeIntel: Reset"
 			],
 			[
-				"linter",
-				"File: Open In Browser - Testing Server"
-			],
-			[
 				"linte",
 				"SublimeLinter: Enable Linting"
 			],
 			[
 				"delete",
 				"File: Delete"
-			],
-			[
-				"lint",
-				"SublimeLinter: Show All Errors"
 			],
 			[
 				"lint current",
@@ -391,7 +510,7 @@
 	},
 	"console":
 	{
-		"height": 108.0,
+		"height": 207.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
@@ -410,142 +529,157 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/equipo/Code/JS/jsSoundMix"
+		"/C/Users/equipo/Code/JS/jsSoundMix",
+		"/C/Users/equipo/Code/JS/jsSoundMix/.tmp/app",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/admin",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/assets/images",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/local",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/components",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/components/errors",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/config",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/views"
 	],
 	"file_history":
 	[
-		"/C/Users/equipo/Google Drive/AWS/Scripts/Usefull linux commands",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/js/init.js",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/index.html",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/custom.css",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/sticky-footer-navbar.css",
+		"/C/Users/equipo/Code/JS/jsSoundMix/.gitattributes",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/ng-file-upload/angular-file-upload.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular/angular-csp.css",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/Gruntfile.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular/angular.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/test/angular-templates_test.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/test/expected/empty_file.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/alt-na.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-clean/AUTHORS",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/ng-file-upload/angular-file-upload-shim.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-usemin/lib/file.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/file_list.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/object/forIn.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/navbar.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-ng-annotate/node_modules/.bin/ng-annotate",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/graceful-fs/graceful-fs.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/Gruntfile.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/bower.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/express/lib/request.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/requirejs/require.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/browser/runner-errors-options.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/README.md",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/bootstrap.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/variables.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/inquirer/node_modules/cli-color/node_modules/es5-ext/object/valid-object.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/jquery/src/var/hasOwn.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/WebSocketEvent.as",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar/navbar.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix2/frontend/mockup/index.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar/navbar.controller.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix2/frontend/mockup/jsSoundMix.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/config/seed.js",
+		"/C/Users/equipo/Code/JS/Audventure/index.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/syntax-error.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/signup/signup.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/settings/settings.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/VN.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/lang/isNaN.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/font-awesome/less/variables.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.css",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/admin/admin.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/css/variables-in-at-rules.css",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/express/lib/view.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/buffer-overrun.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/local/passport.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/uploadFile/uploadFile.controller.spec.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth/auth.service.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/account.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/thing/thing.spec.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/events.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/lib/less/extend-visitor.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/ejs/ejs.js",
+		"/W/BASES/Tels.txt",
+		"/C/Users/equipo/AppData/Local/Temp/Temp1_WhatsAppCryptKeyExtractor.zip/WhatsAppCryptKeyExtractor/ReadMe.txt",
+		"/C/Users/equipo/Downloads/Torr/Last.Week.Tonight.With.John.Oliver.S01E24.HDTV.x264-BATV[rarbg]/last.week.tonight.with.john.oliver.s01e24.hdtv.x264-batv.nfo",
+		"/C/Users/equipo/Desktop/activity_results.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.controller.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.model.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/routes.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.controller.js",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/.jshintrc-spec",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/index.js",
+		"/C/Users/equipo/Desktop/libusb-win32-bin-1.2.6.0/installer_license.txt",
+		"/C/Users/equipo/Desktop/libusb-win32-bin-1.2.6.0/README.txt",
+		"/C/Users/equipo/Desktop/libusb-win32-bin-1.2.6.0/bin/libusb-win32-bin-README.txt",
+		"/C/Users/equipo/Desktop/TuioKinect/TUIO/TcpSender.cpp",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.spec.js",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/C/Users/equipo/Desktop/548b74ee.att",
+		"/W/UFCG103B (2).txt",
+		"/C/Users/equipo/AppData/Local/Opera Mail/Opera Mail/temporary_downloads/33757720141030.txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/thing/index.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/uid-number/get-uid-gid.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/user-timing.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/test/http/util_test.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/browser/test-runner-template.tmpl",
+		"/C/Users/equipo/Code/JS/jsSoundMix/package.json",
 		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/bootstrap.css",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/audio/lava4.wav",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/Audventure.sublime-project",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/fonts/glyphicons-halflings-regular.svg",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/js/bootstrap.js",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/js/bufferloader.js",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
 		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/equipo/Google Drive/PUJ/2014-02/Tecnologias Multimedia/Taller 2/web audio/index.html",
-		"/C/Users/equipo/Google Drive/Code/JS/Audventure/assets/css/cover.css",
-		"/C/Users/equipo/Google Drive/Code/JS/ZombieEscape/index.html",
-		"/C/Users/equipo/Google Drive/Code/JS/ZombieEscape/PServer.bat",
-		"/C/Users/Administrador/AppData/Local/Opera Mail/Opera Mail/cache/sesn/opr00001.tmp",
-		"/C/Users/Administrador/AppData/Local/Opera Mail/Opera Mail/temporary_downloads/33757720141014.txt",
-		"/C/Users/Administrador/Desktop/52f7b977.att",
-		"/C/Users/Administrador/Desktop/52db306f.att",
-		"/C/Users/Administrador/AppData/Local/Opera Mail/Opera Mail/temporary_downloads/33757720141012.txt",
-		"/C/Users/Administrador/Desktop/53358766.att",
-		"/C/Users/Administrador/Desktop/53ea7e3e.att",
-		"/C/Users/Administrador/Desktop/54576848.att",
-		"/C/Users/Administrador/Desktop/53ea331b.att",
-		"/C/Users/Administrador/Desktop/540102c5.att",
-		"/C/Users/Administrador/Desktop/548a2d34.att",
-		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/P3Server.bat",
-		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/index.html",
-		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/python.bat",
-		"/C/Users/Administrador/Desktop/bases.txt",
-		"/C/Program Files (x86)/PuTTY/README.txt",
-		"/C/Users/Administrador/git/django-vagrant-base/Vagrantfile",
-		"/C/Users/Administrador/Google Drive/Code/JS/Audventure/assets/js/bufferloader.js",
-		"/C/Users/Administrador/Desktop/Clima peru.txt",
-		"/Y/BASES/Tels.txt",
-		"/C/Users/Administrador/Desktop/Centros de costo.txt",
-		"/Y/list.txt",
-		"/C/Users/Administrador/Desktop/Mensajes OSC.txt",
-		"/C/Users/Administrador/Desktop/UN002029.txt",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
-		"/X/HMB/UN002029.txt",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/docs/main.md",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/README.md",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/index.html",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/assets/css/sticky-footer-navbar.css",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/assets/js/jquery-2.1.1.min.js",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-		"/C/Users/Administrador/Desktop/Spanish.dic.txt",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/mockup/app.html",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/app.php",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/frontend/index.php",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/docs/entregas.md",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
-		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/.gitignore",
-		"/C/Users/Administrador/Google Drive/Code/JS/jsSoundMix/docs/Text.md",
-		"/C/Users/Administrador/Google Drive/AWS/Scripts/installdjango",
-		"/Y/BASES/item.txt",
-		"/C/Users/Administrador/Google Drive/AWS/Scripts/Usefull linux commands",
-		"/C/Users/Administrador/Google Drive/AWS/Scripts/installdjangov3",
-		"/C/Users/Administrador/Google Drive/AWS/Scripts/installdjangocms",
-		"/Y/BASES/cc.txt",
-		"/Y/UNCCOSTO.DAT",
-		"/X/HMB/UFCG9P02.P01",
-		"/C/Users/Administrador/Desktop/CENTROS DE COSTO.TXT",
-		"/C/Users/Administrador/Desktop/ASD.txt",
-		"/C/Users/Administrador/Desktop/CENTROS DE COSTO.P01",
-		"/C/Users/Administrador/Google Drive/AWS/Scripts/installpptd",
-		"/C/Users/Administrador/Desktop/GPS/installpptd",
-		"/C/Users/Administrador/Desktop/GPS/GpxIddleTime.py",
-		"/C/Users/Administrador/Desktop/GPS/P02.gpx",
-		"/C/Users/Administrador/Desktop/tc.txt",
-		"/C/Users/Administrador/Desktop/GPS/GPXLoader.py",
-		"/C/Users/Administrador/Desktop/GPS/GPXDProcessor.py",
-		"/X/HMB/CG02072.P01",
-		"/C/Users/Administrador/Desktop/GPS/GPXLoader",
-		"/C/Users/Administrador/Desktop/GPS/P02.cvs",
-		"/C/Users/Administrador/Desktop/GPS/P01.gpx",
-		"/C/Users/Administrador/Desktop/GPS/gpx.cvs",
-		"/C/Users/Administrador/Desktop/GPS/red.cvs",
-		"/C/Users/Administrador/Desktop/GPS/P01 (1).gpx",
-		"/C/Users/Administrador/Desktop/GPS/Current.gpx",
-		"/D/.dropbox.device",
-		"/Y/re.txt",
-		"/X/HMB/UN003065.P01",
-		"/X/HMB/UFCG103B.P01",
-		"/C/Users/Administrador/Desktop/rodamientos.txt",
-		"/C/Users/Administrador/Desktop/Transipiales.txt",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_03/js/audio_base.js",
-		"/C/Users/Administrador/Desktop/Notas/Domain.txt",
-		"/C/Users/Administrador/Desktop/Notas/Pendietes.txt",
-		"/C/Users/Administrador/Desktop/Notas/Reductor.txt",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_02/index.html",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_03/index.html",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_02/js/audio_base.js",
-		"/C/Users/Administrador/Desktop/web audio/js/buffer-loader.js",
-		"/X/HMB/Codigos item.txt",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_03/js/RhythmSample.js",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_02/js/RhythmSample.js",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_01/js/init.js",
-		"/C/Users/Administrador/Desktop/web audio/index.html",
-		"/C/Users/Administrador/Desktop/web audio/server.bat",
-		"/C/Users/Administrador/Desktop/web audio/sftp-config.json",
-		"/C/Users/Administrador/Desktop/web audio/ejemplo_01/index.html",
-		"/C/Users/Administrador/Desktop/web audio/js/f",
-		"/C/Users/Administrador/Desktop/web audio/css/label.css",
-		"/C/Users/Administrador/Desktop/web audio/webaudio.sublime-project",
-		"/C/Users/Administrador/Desktop/web audio/css/button.css",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/hihat.wav",
-		"/C/Users/Administrador/Desktop/web audio/test.java",
-		"/C/Users/Administrador/Desktop/web audio/css/style.css",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/._.DS_Store",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/bateria.mp3",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/bg.mp3",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/guitarra.mp3",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/kick.wav",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/snare.wav",
-		"/C/Users/Administrador/Desktop/web audio/media/sound/solo.mp3"
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/LICENSE",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/Linkifier.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/link_that_wraps.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose/lib/internal.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-newer/test/integration/newer-override.spec.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/.bin/node-debug",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/should/lib/node.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/connect-mongo/lib/connect-mongo.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/mongo_client.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose/node_modules/mquery/test/collection/mongo.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/mongoose-error/mongoose-error.directive.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/composable-middleware/lib/middleware-common-object.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/docs/main.md",
+		"/C/Users/equipo/Desktop/INPEL/33757720141023.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141029.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141027.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141024.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141025.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141026.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141028.txt",
+		"/C/Users/equipo/Desktop/INPEL/33757720141028(2).txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/.bowerrc",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/C/Users/equipo/Desktop/of_v0.8.4_vs_release/INSTALL.md",
+		"/C/Users/equipo/AppData/Local/Temp/7zO293D.tmp/More Trainers @ GameCopyWorld.txt",
+		"/C/Users/equipo/Downloads/Torr/g/Sid.Meiers.Civilization.Beyond.Earth-RELOADED[rarbg]/reloaded.nfo",
+		"/C/Users/equipo/AppData/Local/Temp/7zO66F9.tmp/More Trainers @ GameCopyWorld.txt",
+		"/C/Users/equipo/Downloads/Torr/g/Sid.Meiers.Civilization.Beyond.Earth-RELOADED[rarbg]/RARBG.com.txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/src/object/deepEquals.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/ScriptSnippetModel.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CFB8ModeTest.as",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/user/user.model.spec.js"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -559,6 +693,35 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wiredep",
+			"bower_compo",
+			"grunt",
+			"sanitize",
+			"bower_com",
+			"src",
+			".js",
+			"file",
+			"\"js\":",
+			"file",
+			"fd",
+			"btn",
+			" \">",
+			"6",
+			"t</p>",
+			"inverse",
+			"modal",
+			"less",
+			"centroace",
+			"            ",
+			"^.",
+			"cali caldera",
+			"});\n",
+			"post",
+			"2159",
+			"                ",
+			"require",
+			" ",
+			".",
 			"-",
 			"\"",
 			":",
@@ -657,36 +820,7 @@
 			"GU",
 			"GUAAD",
 			"palmeiras",
-			" ",
-			"CLO Asistente Compras - Mauricio B:",
-			"AGRO RE",
-			"AGROREPUES",
-			"-----------------------------------------------------------------------------------------------------------------------------------------\n| 20140909  14:49                                   SISTEMA INTEGRADO DE CONTABILIDAD                                                   |\n",
-			"valde",
-			"balde",
-			"fabr",
-			",",
-			"files",
-			"ALTA TEM",
-			"ALUM",
-			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                    FECHA : 2014/09/08 |\n| UN002029.P01                                   ** CATALOGO DE CENTROS DE COSTOS **                            HORA  :  7:46 PM   |\n|                                                                                                               PAGINA:        2   |\n| NIVEL DEL LISTADO: 8                                                                                                             |\n+----------------------------------------------------------------------------------------------------------------------------------+\n| C.COSTO  DESCRIPCION                              PADRE    T/D NIV  ANTERIOR POSTERIOR SECUENCIA          EMP C.O ESTADO GPO UNEG|\n+----------------------------------------------------------------------------------------------------------------------------------+",
-			"	1UND",
-			"•",
-			"6205",
-			"AMARILLO",
-			"verde",
-			"| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                         FECHA : 2014/09/08 |\n| UN003065.P01                                         ** CATALOGO DE ITEMS **                                       HORA  :  4:17 PM   |\n",
-			"corgi",
-			"4179",
-			"4770",
-			"4691",
-			"4689",
-			"4179",
-			",",
-			"<trkpt ",
-			"<gpx",
-			"source",
-			" source"
+			" "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -704,24 +838,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": true,
+					"file": "client/app/soundMixer/soundMixer.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 87,
+						"buffer_size": 350,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								82,
+								82
 							]
 						],
 						"settings":
@@ -738,13 +872,697 @@
 									"selector": "text.html"
 								}
 							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/app/soundMixer/soundMixer.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7363,
+								7370
+							],
+							[
+								18938,
+								18945
+							],
+							[
+								19217,
+								19224
+							],
+							[
+								20356,
+								20363
+							],
+							[
+								20717,
+								20724
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4052.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -752,7 +1570,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 21.0
 	},
 	"input":
 	{
@@ -785,6 +1603,10 @@
 	{
 		"height": 0.0
 	},
+	"output.exec":
+	{
+		"height": 229.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -792,7 +1614,7 @@
 	"project": "jsSoundMix.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 38.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -801,8 +1623,64 @@
 		"selected_items":
 		[
 			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"seeds",
+				"server\\config\\seed.js"
+			],
+			[
+				"navb",
+				"client\\bower_components\\bootstrap\\less\\navbar.less"
+			],
+			[
+				"varia",
+				"client\\bower_components\\bootstrap\\less\\variables.less"
+			],
+			[
 				"",
-				"index.html"
+				"client\\bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"boot",
+				"client\\bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"see",
+				"server\\config\\seed.js"
+			],
+			[
+				"event",
+				"node_modules\\karma\\lib\\events.js"
+			],
+			[
+				"audio",
+				"server\\api\\audioFile\\audioFile.model.js"
+			],
+			[
+				"audiof",
+				"server\\api\\audioFile\\audioFile.model.js"
+			],
+			[
+				"main",
+				"docs\\main.md"
+			],
+			[
+				"s",
+				"server\\config\\seed.js"
+			],
+			[
+				"seed",
+				"server\\config\\seed.js"
+			],
+			[
+				"model",
+				"node_modules\\mongoose\\examples\\express\\connection-sharing\\modelA.js"
+			],
+			[
+				"seed.js",
+				"server\\config\\seed.js"
 			],
 			[
 				"init",
@@ -851,7 +1729,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 218.0,
+	"side_bar_width": 259.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -5,21 +5,23 @@
 <!-- MarkdownTOC depth=0 -->
 
 - Colaboradores
-- Idea
-  - Descripción general del proyecto - Responsable (DM-HB)
-  - Objetivos - Responsable (DM)
-  - Benchmarking - Responsable (DM)
-  - Tecnologías a utilizar - Responsable (DM-HB)
-    - Front end
-    - Back end
-    - Bases de datos
-- Diseño
-  - Mapas de Navegación - Responsable (HB)
-  - Mockups - Responsable (HB)
-    - Página del login
-    - Página del la aplicación
-    - Diagrama de Despliegue - Responsable (DM)
-    - Bibliografía
+  - Idea
+    - Descripción general del proyecto - Responsable (DM-HB)
+    - Objetivos - Responsable (DM)
+    - Benchmarking - Responsable (DM)
+    - Tecnologías a utilizar - Responsable (DM-HB)
+      - Front end
+      - Back end
+      - Bases de datos
+  - Diseño
+    - Mapas de Navegación - Responsable (HB)
+    - Mockups - Responsable (HB)
+      - Página del login
+      - Página de la aplicación
+      - Diagrama de Despliegue - Responsable (DM)
+    - Arquitectura
+    - Modelo de Datos
+- Bibliografía
 
 <!-- /MarkdownTOC -->
 
@@ -156,4 +158,22 @@ Mapas de navegación
 ###### Diagrama de Despliegue - Responsable (DM)
 ![](media/diagramaDespliegue.png)
 
-###### Bibliografía
+#### Arquitectura
+
+Se mira la posibilidad de hacer la aplaicaion de forma fullstack
+
+#### Modelo de Datos
+
+- [x] User
+  - [x] provider
+  - [x] name
+  - [x] email
+  - [x] password (plaintext) 
+- [x] Composition
+- [x] audioFile 
+- [x] 
+
+
+
+
+## Bibliografía

@@ -8,6 +8,7 @@
  * App-wide Styles
  */
 
+
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;
@@ -15,9 +16,20 @@
     padding: 0.2em 0;
 }
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {	
+  margin-bottom: 40px;
+}
+
 // injector
 @import 'account/login/login.less';
 @import 'admin/admin.less';
 @import 'main/main.less';
+@import 'soundMixer/soundMixer.less';
+@import 'footer/footer.less';
 @import 'modal/modal.less';
 // endinjector
