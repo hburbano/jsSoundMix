@@ -24,9 +24,9 @@ Thing.find({}).remove(function() {
 User.find({}).remove(function() {
     User.create({
         provider: 'local',
-        name: 'Test User',
-        email: 'test@example.com',
-        password: 'test'
+        name: 'Demo user',
+        email: 'demo@example.com',
+        password: 'demo'
     }, {
         provider: 'local',
         role: 'admin',

@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"wi",
+				"width"
+			],
+			[
+				"bu",
+				"button	<button>"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"fo",
+				"footer-height	 app.less"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
 				"for",
 				"form	<form>"
 			],
@@ -144,38 +200,30 @@
 	"buffers":
 	[
 		{
-			"file": "client/app/soundMixer/soundMixer.js",
+			"file": "client/app/soundMixer/soundMixer.less",
 			"settings":
 			{
-				"buffer_size": 350,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "'use strict';\n\nangular.module('jsSoundMixApp')\n  .controller('SoundmixerCtrl', function ($scope) {\n    $scope.message = 'Hello';\n  });\n",
-			"file": "client/app/soundMixer/soundMixer.controller.js",
-			"file_size": 172,
-			"file_write_time": 130602605548036119,
-			"settings":
-			{
-				"buffer_size": 135,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Gruntfile.js",
-			"settings":
-			{
-				"buffer_size": 21058,
+				"buffer_size": 963,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "client/app/app.js",
+			"contents": "<div ng-include=\"'components/navbar/navbar.html'\"></div>\n\n<div class=\"container-fluid\">\n\n    <div class=\"row-fluid\">\n\n        <div class=\"col-xs-9 col-sm-9 col-md-9 col-lg-9 booth\">\n\n            <div class=\"booth-header\">\n                <h3>Audio mixer</h3>\n            </div>\n            <div class=\"booth-body\">\n                <h3>boooody</h3>\n            </div>\n\n            <div class=\"booth-footer\">\n                <button type=\"button\" class=\"btn btn-default btn-md round btn-rnd\"><span class=\"glyphicon glyphicon-fast-backward\"></span></button>\n                <button type=\"button\" class=\"btn btn-default btn-md round btn-rnd\"><span class=\"glyphicon glyphicon-backward\" ></span></button>\n                <button type=\"button\" class=\"btn btn-default btn-md round btn-rnd\"><span class=\"glyphicon glyphicon-play\" ></span></button>\n                <button type=\"button\" class=\"btn btn-default btn-md round btn-rnd\"><span class=\"glyphicon glyphicon-pause\" ></span></button>\n                <button type=\"button\" class=\"btn btn-default btn-md round btn-rnd\"><span class=\"glyphicon glyphicon-stop\" ></span></button>\n                <button type=\"button\" class=\"btn btn-default btn-md round btn-rnd\"><span class=\"glyphicon glyphicon-forward\" ></span></button>\n            </div>\n\n        </div>\n\n        <div class=\"col-xs-3 col-sm-3 col-md-3 col-lg-3 filebar\">\n\n            <div class=\"filebar-header\">\n                <h2>\n                    Audio files\n                </h2>\n            </div>\n            <div class=\"filebar-body\">\n                <ul class=\"list-group\">\n                    <li class=\"list-group-item\">Cras justo odio.mp3 <span class=\"badge\">3:21 123.Kb</span></li>\n                    <li class=\"list-group-item\">Dapibus ac fPorta ac consectetuPorta ac consectetuacilisis in.mp3 <span class=\"badge\">3:21 123.Kb</span></li>\n                    <li class=\"list-group-item\">Morbi leo riPorta ac consectetuPorta ac consectetusus.mp3 <span class=\"badge\">3:21 123.Kb</span></li>\n                    <li class=\"list-group-item\">Porta ac consectetuPorta ac consectetuPorta ac consectetur ac.mp3 <span class=\"badge\">3:21 123.Kb</span></li>\n                    <li class=\"list-group-item\">Vestibulum at eros.mp3 <span class=\"badge\">3:21 123.Kb</span></li>\n                </ul>\n\n            </div>\n            <div class=\"filebar-footer\">\n                <div ng-file-select=\"onFileSelect($files)\" data-multiple=\"true\" title=\"select file\" onclick=\"this.value = null\" class=\"upload-button\" style=\"overflow: hidden;\">\n                    <button type=\"button\" class=\"btn btn-default btn-md\">\n                        <span class=\"fa fa-cloud-upload\" aria-hidden=\"true\"></span>&nbsp;UPLOAD\n                    </button>\n                </div>\n            </div>\n                \n\n        </div>\n\n    </div>\n\n</div>\n\n<div ng-include=\"'components/footer/footer.html'\"></div>\n",
+			"file": "client/app/soundMixer/soundMixer.html",
+			"file_size": 2895,
+			"file_write_time": 130605131980922281,
 			"settings":
 			{
-				"buffer_size": 1612,
-				"line_ending": "Windows"
+				"buffer_size": 2886,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/bower_components/bootstrap/less/variables.less",
+			"settings":
+			{
+				"buffer_size": 25388,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -187,6 +235,22 @@
 		[
 			[
 				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"PRETT",
 				"HTMLPrettify"
 			],
 			[
@@ -226,10 +290,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"enab",
 				"Package Control: Enable Package"
 			],
@@ -252,10 +312,6 @@
 			[
 				"gutt",
 				"SublimeLinter: Choose Gutter Theme"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
 			],
 			[
 				"jsh",
@@ -506,7 +562,7 @@
 				"Project: Add Folder"
 			]
 		],
-		"width": 536.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -530,70 +586,123 @@
 	"expanded_folders":
 	[
 		"/C/Users/equipo/Code/JS/jsSoundMix",
-		"/C/Users/equipo/Code/JS/jsSoundMix/.tmp/app",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/settings",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/signup",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/admin",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/assets/images",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/local",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/components",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/components/errors",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/config",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/views"
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/modal",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/mongoose-error",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/thing"
 	],
 	"file_history":
 	[
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/bootstrap.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/connect-mongo/node_modules/mongodb/node_modules/bson/build_browser.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt/node_modules/glob/test/bash-results.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/panels.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/property-asterisk-only-name.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose/node_modules/mpromise/test/promises.Aplus.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/package.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-clean/docs/overview.md",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-clean/AUTHORS",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/navs.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/grid.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/code.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/.bin/lessc.cmd",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/modal/modal.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/admin/admin.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/.bin/lessc",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/inquirer/node_modules/cli-color/.lint",
+		"/C/Users/equipo/Code/JS/jsSoundMix/.bowerrc",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/config/seed.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/test/expected/custom_concat_usemin_not_found.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/navbar.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow-body.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar/navbar.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose-crate/node_modules/mmmagic/deps/libmagic/pcre/NON-AUTOTOOLS-BUILD",
+		"/C/Users/equipo/Code/JS/jsSoundMix/bower.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.controller.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/NavigatorOverlayController.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/LICENSE",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/css/lazy-eval.css",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/LiveEditSupport.js",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/log4js/examples/flush-on-exit.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-ng-annotate/node_modules/.bin/ng-annotate",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/inquirer/node_modules/rx/src/core/linq/observable/groupjoin.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/log4js/test/logging-test.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/auth.service.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/lib/hacks/align-items.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.controller.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/logger.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/optimist/example/line_count_options.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/syntax-error.js",
+		"/W/BASES/Tels.txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.js",
+		"/C/WKE/extracted/whatsapp.key",
+		"/C/Users/equipo/Code/JS/jsSoundMix/.gitignore",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/signup/signup.controller.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth/auth.service.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth/user.service.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.model.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/jsSoundMix.sublime-project",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/screen-orientation.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/alt-na.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular/angular.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.controller.js",
+		"/C/WKE/ReadMe.txt",
+		"/Z/HMB/Nuevo documento de texto.txt",
 		"/C/Users/equipo/Code/JS/jsSoundMix/.gitattributes",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/ng-file-upload/angular-file-upload.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular/angular-csp.css",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/Gruntfile.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular/angular.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/test/angular-templates_test.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/test/expected/empty_file.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/alt-na.json",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-clean/AUTHORS",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/ng-file-upload/angular-file-upload-shim.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-usemin/lib/file.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/file_list.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/object/forIn.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/navbar.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-ng-annotate/node_modules/.bin/ng-annotate",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/graceful-fs/graceful-fs.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/Gruntfile.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/bower.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/express/lib/request.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/requirejs/require.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/browser/runner-errors-options.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/README.md",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.less",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/bootstrap.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/variables.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/inquirer/node_modules/cli-color/node_modules/es5-ext/object/valid-object.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/jquery/src/var/hasOwn.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/WebSocketEvent.as",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.less",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar/navbar.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix2/frontend/mockup/index.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar/navbar.controller.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix2/frontend/mockup/jsSoundMix.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/config/seed.js",
 		"/C/Users/equipo/Code/JS/Audventure/index.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/syntax-error.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/signup/signup.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/settings/settings.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/VN.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/lang/isNaN.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/font-awesome/less/variables.less",
@@ -601,24 +710,19 @@
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/admin/admin.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/css/variables-in-at-rules.css",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/express/lib/view.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/buffer-overrun.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/local/passport.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/uploadFile/uploadFile.controller.spec.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth/auth.service.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/account.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/thing/thing.spec.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/events.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/lib/less/extend-visitor.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/ejs/ejs.js",
-		"/W/BASES/Tels.txt",
 		"/C/Users/equipo/AppData/Local/Temp/Temp1_WhatsAppCryptKeyExtractor.zip/WhatsAppCryptKeyExtractor/ReadMe.txt",
 		"/C/Users/equipo/Downloads/Torr/Last.Week.Tonight.With.John.Oliver.S01E24.HDTV.x264-BATV[rarbg]/last.week.tonight.with.john.oliver.s01e24.hdtv.x264-batv.nfo",
 		"/C/Users/equipo/Desktop/activity_results.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.controller.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.model.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/routes.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.controller.js",
 		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/.jshintrc-spec",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/index.js",
@@ -630,52 +734,7 @@
 		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
 		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
-		"/C/Users/equipo/Desktop/548b74ee.att",
-		"/W/UFCG103B (2).txt",
-		"/C/Users/equipo/AppData/Local/Opera Mail/Opera Mail/temporary_downloads/33757720141030.txt",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/thing/index.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/uid-number/get-uid-gid.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/user-timing.json",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/test/http/util_test.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/browser/test-runner-template.tmpl",
-		"/C/Users/equipo/Code/JS/jsSoundMix/package.json",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular-ui-router/release/angular-ui-router.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/LICENSE",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/Linkifier.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/link_that_wraps.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose/lib/internal.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-newer/test/integration/newer-override.spec.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/.bin/node-debug",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/should/lib/node.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/connect-mongo/lib/connect-mongo.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/mongo_client.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose/node_modules/mquery/test/collection/mongo.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/mongoose-error/mongoose-error.directive.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/composable-middleware/lib/middleware-common-object.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/docs/main.md",
-		"/C/Users/equipo/Desktop/INPEL/33757720141023.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141029.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141027.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141024.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141025.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141026.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141028.txt",
-		"/C/Users/equipo/Desktop/INPEL/33757720141028(2).txt",
-		"/C/Users/equipo/Code/JS/jsSoundMix/.bowerrc",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
-		"/C/Users/equipo/Desktop/of_v0.8.4_vs_release/INSTALL.md",
-		"/C/Users/equipo/AppData/Local/Temp/7zO293D.tmp/More Trainers @ GameCopyWorld.txt",
-		"/C/Users/equipo/Downloads/Torr/g/Sid.Meiers.Civilization.Beyond.Earth-RELOADED[rarbg]/reloaded.nfo",
-		"/C/Users/equipo/AppData/Local/Temp/7zO66F9.tmp/More Trainers @ GameCopyWorld.txt",
-		"/C/Users/equipo/Downloads/Torr/g/Sid.Meiers.Civilization.Beyond.Earth-RELOADED[rarbg]/RARBG.com.txt",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/src/object/deepEquals.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/ScriptSnippetModel.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CFB8ModeTest.as",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/user/user.model.spec.js"
+		"/C/Users/equipo/Desktop/548b74ee.att"
 	],
 	"find":
 	{
@@ -693,6 +752,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"btn-span",
+			"btn-md",
+			"btn",
+			"btn-lg",
+			"14px",
+			";\n",
+			"h3",
+			"navbar-height",
+			"heig",
+			"navba",
+			"@navbar-height",
+			"nav-ba",
+			"navbar",
+			"api",
+			"finger",
+			"yeoman.client",
 			"wiredep",
 			"bower_compo",
 			"grunt",
@@ -804,23 +879,7 @@
 			"x",
 			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       10   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+",
 			"",
-			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       12   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+",
-			"*",
-			"'*",
-			"'",
-			"'*",
-			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |",
-			"*",
-			"",
-			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n",
-			"UND",
-			"ESERROR(",
-			"HALLAR",
-			"tubo",
-			"GU",
-			"GUAAD",
-			"palmeiras",
-			" "
+			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       12   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -838,24 +897,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "client/app/soundMixer/soundMixer.js",
+					"file": "client/app/soundMixer/soundMixer.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 350,
+						"buffer_size": 963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								82,
-								82
+								456,
+								456
 							]
 						],
 						"settings":
@@ -874,61 +933,61 @@
 							],
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"codeintel": true,
 							"codeintel_config":
@@ -1034,348 +1093,32 @@
 							},
 							"codeintel_tooltips": "popup",
 							"sublime_auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "client/app/soundMixer/soundMixer.controller.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 135,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								45,
-								45
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 228.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "Gruntfile.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 21058,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7363,
-								7370
-							],
-							[
-								18938,
-								18945
-							],
-							[
-								19217,
-								19224
-							],
-							[
-								20356,
-								20363
-							],
-							[
-								20717,
-								20724
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4052.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "client/app/app.js",
+					"buffer": 1,
+					"file": "client/app/soundMixer/soundMixer.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1612,
+						"buffer_size": 2886,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								157,
-								157
+								258,
+								258
 							]
 						],
 						"settings":
@@ -1394,61 +1137,61 @@
 							],
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"codeintel": true,
 							"codeintel_config":
@@ -1554,15 +1297,113 @@
 							},
 							"codeintel_tooltips": "popup",
 							"sublime_auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 530.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/bower_components/bootstrap/less/variables.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22860,
+								22864
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13685.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1623,6 +1464,74 @@
 		"selected_items":
 		[
 			[
+				"varia",
+				"client\\bower_components\\bootstrap\\less\\variables.less"
+			],
+			[
+				"panels",
+				"client\\bower_components\\bootstrap\\less\\panels.less"
+			],
+			[
+				"soun",
+				"client\\app\\soundMixer\\soundMixer.html"
+			],
+			[
+				"soundm",
+				"client\\app\\soundMixer\\soundMixer.less"
+			],
+			[
+				"boot",
+				"client\\bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"navbar",
+				"client\\bower_components\\bootstrap\\less\\navbar.less"
+			],
+			[
+				"nav",
+				"client\\components\\navbar\\navbar.html"
+			],
+			[
+				"navs",
+				"client\\bower_components\\bootstrap\\less\\navs.less"
+			],
+			[
+				"boots",
+				"client\\bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"foot",
+				"client\\components\\footer\\footer.html"
+			],
+			[
+				"navba",
+				"client\\components\\navbar\\navbar.html"
+			],
+			[
+				"navc",
+				"node_modules\\grunt-node-inspector\\node_modules\\node-inspector\\front-end\\NavigatorOverlayController.js"
+			],
+			[
+				"login.js",
+				"client\\app\\account\\login\\login.controller.js"
+			],
+			[
+				"login",
+				"client\\app\\account\\login\\login.html"
+			],
+			[
+				"seed",
+				"server\\config\\seed.js"
+			],
+			[
+				"soundmix",
+				"client\\app\\soundMixer\\soundMixer.html"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
 				"bower",
 				"bower.json"
 			],
@@ -1635,15 +1544,7 @@
 				"client\\bower_components\\bootstrap\\less\\navbar.less"
 			],
 			[
-				"varia",
-				"client\\bower_components\\bootstrap\\less\\variables.less"
-			],
-			[
 				"",
-				"client\\bower_components\\bootstrap\\less\\bootstrap.less"
-			],
-			[
-				"boot",
 				"client\\bower_components\\bootstrap\\less\\bootstrap.less"
 			],
 			[
@@ -1668,10 +1569,6 @@
 			],
 			[
 				"s",
-				"server\\config\\seed.js"
-			],
-			[
-				"seed",
 				"server\\config\\seed.js"
 			],
 			[

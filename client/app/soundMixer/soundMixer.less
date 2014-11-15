@@ -1,29 +1,55 @@
-.btn-file {
-  position: relative;
-  overflow: hidden;
+@import 'app.less';
+.booth {
+    position: fixed;
+    top: @navbar-height+1;
+    bottom: @footer-height;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    left: 0;
 }
-
-.btn-gly {
-  position: absolute;
-  overflow: hidden;
-  z-index: 25;
-  right: 0;
+.booth-header {
+    border-bottom: red solid;
 }
-.btn-file input[type=file] {
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-height: 100%;
-  font-size: 100px;
-  text-align: right;
-  filter: alpha(opacity=0);
-  opacity: 0;
-  background: red;
-  cursor: inherit;
-  display: block;
+.booth-body {
+    border-bottom: red solid;
 }
-
-input[readonly] {
-  background-color: white !important;
-  cursor: text !important;
+.booth-footer {
+    position: absolute;
+    padding: 5px;
+    bottom: 0;
+}
+.btn-rnd {
+    position: relative;
+    border-radius: 50%;
+    height: auto;
+    border: 5px solid black;
+}
+.btn-span {
+    vertical-align: middle;
+}
+.filebar {
+    position: fixed;
+    top: @navbar-height+1;
+    bottom: @footer-height;
+    right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    z-index: 1000;
+    display: block;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: #f5f5f5;
+}
+.filebar-header {
+    border-bottom: red solid;
+}
+.filebar-body {
+    padding: 15px;
+    border-bottom: red solid;
+}
+.filebar-footer {
+    position: absolute;
+    padding: 5px;
+    bottom: 0;
 }

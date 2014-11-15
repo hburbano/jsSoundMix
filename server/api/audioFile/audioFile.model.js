@@ -19,6 +19,6 @@ AudiofileSchema.plugin(crate, {
     fields: {
         attachment: {}
     }
-})
+});
 
 module.exports = mongoose.model('Audiofile', AudiofileSchema);

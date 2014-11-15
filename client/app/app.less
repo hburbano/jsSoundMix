@@ -4,10 +4,16 @@
 @icon-font-path: '/bower_components/bootstrap/fonts/';
 @fa-font-path: '/bower_components/font-awesome/fonts';
 
+@footer-height: 40px;
+
 /**
  * App-wide Styles
  */
 
+.panel {
+	padding: 0;
+	border-radius: 0;
+}
 
 .browsehappy {
     margin: 0.2em 0;
@@ -22,7 +28,7 @@ html {
 }
 
 body {	
-  margin-bottom: 40px;
+  margin-bottom: @footer-height;
 }
 
 // injector

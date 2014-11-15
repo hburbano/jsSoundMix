@@ -2,33 +2,54 @@
 
 <div class="container-fluid">
 
-    <div class="row">
+    <div class="row-fluid">
 
-        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 booth">
+
+            <div class="booth-header">
+                <h3>Audio mixer</h3>
+            </div>
+            <div class="booth-body">
+                <h3>boooody</h3>
+            </div>
+
+            <div class="booth-footer">
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-fast-backward"></span></button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-backward" ></span></button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-play" ></span></button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-pause" ></span></button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-stop" ></span></button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-forward" ></span></button>
+            </div>
 
         </div>
 
-        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-            <div class="panel panel-default">
-                <div class="panel-body">
-                    Audio files
-                </div>
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 filebar">
 
-                <div  class="panel-footer">
-                    <form role="form">
-                        <div class="input-group">
-                            <span class="input-group-btn">
-                                <span class="btn btn-primary btn-file">
-                                    Browse
-                                    <input type="file" name="file" onchange="angular.element(this).scope().uploadFile(this.files)">
-                                </span>
-                            </span>
-                                <input type="text" class="form-control" readonly>
-                        </div>
-                        
-                    </form>
+            <div class="filebar-header">
+                <h2>
+                    Audio files
+                </h2>
+            </div>
+            <div class="filebar-body">
+                <ul class="list-group">
+                    <li class="list-group-item">Cras justo odio.mp3 <span class="badge">3:21 123.Kb</span></li>
+                    <li class="list-group-item">Dapibus ac fPorta ac consectetuPorta ac consectetuacilisis in.mp3 <span class="badge">3:21 123.Kb</span></li>
+                    <li class="list-group-item">Morbi leo riPorta ac consectetuPorta ac consectetusus.mp3 <span class="badge">3:21 123.Kb</span></li>
+                    <li class="list-group-item">Porta ac consectetuPorta ac consectetuPorta ac consectetur ac.mp3 <span class="badge">3:21 123.Kb</span></li>
+                    <li class="list-group-item">Vestibulum at eros.mp3 <span class="badge">3:21 123.Kb</span></li>
+                </ul>
+
+            </div>
+            <div class="filebar-footer">
+                <div ng-file-select="onFileSelect($files)" data-multiple="true" title="select file" onclick="this.value = null" class="upload-button" style="overflow: hidden;">
+                    <button type="button" class="btn btn-default btn-lg">
+                        <span class="fa fa-cloud-upload btn-span" aria-hidden="true"></span>&nbsp;UPLOAD
+                    </button>
                 </div>
             </div>
+                
+
         </div>
 
     </div>
