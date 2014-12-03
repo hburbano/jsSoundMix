@@ -4,33 +4,7 @@
 
     <div class="row-fluid">
 
-        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 booth">
-
-            <div class="booth-header">
-                <h3>Audio mixer</h3>
-            </div>
-            <div class="booth-body">
-                <h3>boooody</h3>
-            </div>
-
-            <div class="booth-footer">
-                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-fast-backward"></span>
-                </button>
-                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-backward"></span>
-                </button>
-                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-play"></span>
-                </button>
-                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-pause"></span>
-                </button>
-                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-stop"></span>
-                </button>
-                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-forward"></span>
-                </button>
-            </div>
-
-        </div>
-
-        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 filebar" ng-controller="FileUploadCtrl">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 filebar" ng-controller="FileUploadCtrl">
 
             <div class="filebar-header">
                 <h2>
@@ -44,6 +18,18 @@
 
             </div>
             <div class="filebar-footer">
+            <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-fast-backward"></span>
+                </button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-backward"></span>
+                </button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-play"></span>
+                </button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-pause"></span>
+                </button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-stop"></span>
+                </button>
+                <button type="button" class="btn btn-default btn-md round btn-rnd"><span class="glyphicon glyphicon-forward"></span>
+                </button>
                 <div ng-file-select="onFileSelect($files)" data-multiple="true" title="select file" onclick="this.value = null" class="upload-button" class="upload-button">
                     <button type="button" class="btn btn-default btn-md">
                         <span class="fa fa-cloud-upload" aria-hidden="true"></span>&nbsp;UPLOAD
