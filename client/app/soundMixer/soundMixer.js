@@ -11,11 +11,6 @@ angular.module('jsSoundMixApp')
             });
     });
 
-
-angular.module('jsSoundMixApp').directive('hboTabs', function()
-    
-});
-
 angular.module('jsSoundMixApp').controller('FileUploadCtrl', ['$scope', '$upload', function($scope, $upload) {
     $scope.onFileSelect = function($files) {
         console.log($files); // undefined
