@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"to",
+				"top	CSS - top: 0;"
+			],
+			[
+				"5",
+				"5px"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"gr",
+				" green(color)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
 				"wi",
 				"width"
 			],
@@ -34,10 +66,6 @@
 			[
 				"bord",
 				"border-radius"
-			],
-			[
-				"mar",
-				"margin-left"
 			],
 			[
 				"padd",
@@ -110,10 +138,6 @@
 			[
 				"bs3c",
 				"bs3-col:3	bs3-col-3"
-			],
-			[
-				"rig",
-				"text-right	 bootstrap.min.css"
 			],
 			[
 				"ri",
@@ -199,6 +223,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "EP2	Evaluación	escrita	\nEC1	Estudio	de	caso	1	\nEC2	Estudio	de	caso	2	\nPROY	Proyecto	final\nEP1	Evaluación	escrita	\nEC3	Estudio	de	caso	3	\nTLL	Estudio	código	profesional\n\n\n15	3,5\n10	0,5\n10	3,5\n20	3\n20	1,3\n15	4,4\n10	5",
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Windows",
+				"name": "EP2	Evaluación	escrita"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -209,6 +242,22 @@
 			[
 				"prett",
 				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git",
+				"Git: Log All"
 			],
 			[
 				"install ",
@@ -224,10 +273,6 @@
 			],
 			[
 				"PRETT",
-				"HTMLPrettify"
-			],
-			[
-				"pretty",
 				"HTMLPrettify"
 			],
 			[
@@ -355,10 +400,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"html",
-				"Set Syntax: HTML"
-			],
-			[
 				"conso",
 				"Set Syntax: R Console"
 			],
@@ -393,10 +434,6 @@
 			[
 				"git sta",
 				"Git: Stash"
-			],
-			[
-				"ena",
-				"Package Control: Enable Package"
 			],
 			[
 				"preferen",
@@ -515,10 +552,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"git",
-				"Package Control: Add Repository"
-			],
-			[
 				"cl",
 				"File: Close All"
 			],
@@ -535,7 +568,7 @@
 				"Project: Add Folder"
 			]
 		],
-		"width": 528.0
+		"width": 536.0
 	},
 	"console":
 	{
@@ -558,26 +591,49 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/equipo/Code/JS/jsSoundMix",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/admin",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components"
+		"/C/Users/equipo/Code/JS/jsSoundMix"
 	],
 	"file_history":
 	[
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/variables.less",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.less",
+		"/C/Users/equipo/Desktop/resu.txt",
+		"/C/Users/equipo/Desktop/asds.txt",
+		"/C/Users/equipo/Google Drive/AWS/Ueno/Data.txt",
+		"/C/Users/equipo/Downloads/Torr/v/Camtasia Studio 8.4.0 Build 1699+Serials - Cyclonoid/Install Notes!!.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/equipo/Downloads/Torr/v/Camtasia Studio 8.4.0 Build 1699+Serials - Cyclonoid/Changelog For Build 1699.txt",
+		"/Z/HMB/listado.txt",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/resultPage.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/PA.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-uglify/node_modules/uglify-js/test/compress/drop-unused.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/css/detached-rulesets.css",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/static/debug.html",
+		"/W/BASES/Tels.txt",
+		"/Z/HMB/listadoloc.txt",
+		"/Z/HMB/macs pcs-4.txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/bower.json",
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.model.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/bootstrap.less",
+		"/C/Users/equipo/Desktop/proyecto/entradas OSC.txt",
+		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-htmlmin/tasks/htmlmin.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/node_modules/.bin/html-minifier",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt/node_modules/hooker/test/hooker_test.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/History.md",
+		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_auto.html",
+		"/C/Users/equipo/Code/OF/vassets/www.nasa.gov/multimedia/downloadable-video-page/index.html",
+		"/C/Users/equipo/Code/OF/vassets/caster.txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.less",
+		"/C/Users/equipo/AppData/Local/Temp/WPDNSE/SID-{10001,,5928501248}/miniclipId.txt",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/variables.less",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.controller.js",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.html",
+		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/connect-mongo/node_modules/mongodb/node_modules/bson/build_browser.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt/node_modules/glob/test/bash-results.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.less",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/panels.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/property-asterisk-only-name.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose/node_modules/mpromise/test/promises.Aplus.js",
@@ -595,20 +651,16 @@
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/inquirer/node_modules/cli-color/.lint",
 		"/C/Users/equipo/Code/JS/jsSoundMix/.bowerrc",
 		"/C/Users/equipo/Code/JS/jsSoundMix/server/config/seed.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-angular-templates/test/expected/custom_concat_usemin_not_found.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/bootstrap/less/navbar.less",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow-body.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/navbar/navbar.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/mongoose-crate/node_modules/mmmagic/deps/libmagic/pcre/NON-AUTOTOOLS-BUILD",
-		"/C/Users/equipo/Code/JS/jsSoundMix/bower.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/login/login.controller.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/NavigatorOverlayController.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/LICENSE",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/css/lazy-eval.css",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/LiveEditSupport.js",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/footer/footer.html",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/log4js/examples/flush-on-exit.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-ng-annotate/node_modules/.bin/ng-annotate",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-google-cdn/node_modules/bower/node_modules/inquirer/node_modules/rx/src/core/linq/observable/groupjoin.js",
@@ -621,7 +673,6 @@
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/logger.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/node_modules/optimist/example/line_count_options.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/syntax-error.js",
-		"/W/BASES/Tels.txt",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/app.js",
 		"/C/WKE/extracted/whatsapp.key",
 		"/C/Users/equipo/Code/JS/jsSoundMix/.gitignore",
@@ -629,12 +680,10 @@
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth/auth.service.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/components/auth/user.service.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/main/main.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.model.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/jsSoundMix.sublime-project",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/screen-orientation.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/alt-na.json",
 		"/C/Users/equipo/Code/JS/jsSoundMix/client/bower_components/angular/angular.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/soundMixer/soundMixer.controller.js",
 		"/C/WKE/ReadMe.txt",
 		"/Z/HMB/Nuevo documento de texto.txt",
 		"/C/Users/equipo/Code/JS/jsSoundMix/.gitattributes",
@@ -673,34 +722,11 @@
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/test/css/variables-in-at-rules.css",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/express/lib/view.js",
 		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/buffer-overrun.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/local/passport.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/uploadFile/uploadFile.controller.spec.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/client/app/account/account.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/thing/thing.spec.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/karma/lib/events.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/grunt-contrib-less/node_modules/less/lib/less/extend-visitor.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/node_modules/ejs/ejs.js",
-		"/C/Users/equipo/AppData/Local/Temp/Temp1_WhatsAppCryptKeyExtractor.zip/WhatsAppCryptKeyExtractor/ReadMe.txt",
-		"/C/Users/equipo/Downloads/Torr/Last.Week.Tonight.With.John.Oliver.S01E24.HDTV.x264-BATV[rarbg]/last.week.tonight.with.john.oliver.s01e24.hdtv.x264-batv.nfo",
-		"/C/Users/equipo/Desktop/activity_results.html",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.controller.js",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/routes.js",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/.jshintrc-spec",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/index.js",
-		"/C/Users/equipo/Desktop/libusb-win32-bin-1.2.6.0/installer_license.txt",
-		"/C/Users/equipo/Desktop/libusb-win32-bin-1.2.6.0/README.txt",
-		"/C/Users/equipo/Desktop/libusb-win32-bin-1.2.6.0/bin/libusb-win32-bin-README.txt",
-		"/C/Users/equipo/Desktop/TuioKinect/TUIO/TcpSender.cpp",
-		"/C/Users/equipo/Code/JS/jsSoundMix/server/api/audioFile/audioFile.spec.js",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-		"/C/Users/equipo/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
-		"/C/Users/equipo/Desktop/548b74ee.att"
+		"/C/Users/equipo/Code/JS/jsSoundMix/server/auth/local/passport.js"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -714,6 +740,32 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\.",
+			" ",
+			"5",
+			"[0-9. ]{3,6}$",
+			" ",
+			"[0-9. ]*$",
+			".**$",
+			"La definición más sencilla es definido que es no es un dato estructurado y dato estructurado es aquel que a su vez se define como datos que están compuestos por los datos de tipo atómico.\nDe esta misma forma, una base de datos relacional guarda informacion en un formato estructurado y de esta forma consideramos la base de datos como un subconjunto de datos estructurados.\nAun asi los datos no estructurados son un horizonte relativamente \n",
+			"\\. ",
+			"[0-9][0-9]\\t.*\\n",
+			"	10	4.2\n",
+			"10	2.5\n",
+			" \\t.*\\t.*\\n",
+			" ",
+			"-",
+			"centricol",
+			"salt",
+			"create",
+			"post",
+			"mp4",
+			" ",
+			"<li",
+			"<span",
+			"badge",
+			"-    ",
+			"-",
 			"btn-span",
 			"btn-md",
 			"btn",
@@ -815,33 +867,7 @@
 			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                    FECHA : 2014/09/24 |\n",
 			"	      \n",
 			"-",
-			"align=\"right\"",
-			"align=\"center\"",
-			"#",
-			"■ ",
-			"○ ",
-			"djangocms",
-			"guni",
-			"cms",
-			"chown",
-			"mezzanine",
-			"djangocms",
-			"chown",
-			"hello_django",
-			"djangocms",
-			"webapps/hello_django",
-			"webapps/hello_django/",
-			"\n\n ",
-			"\n ",
-			"",
-			"+----------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                    FECHA : 2014/09/19 |\n",
-			"+",
-			"---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                        PALMAS SANTA FE S.A.                                         FECHA : 2014/09/19 |\n",
-			"ngi",
-			"x",
-			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       10   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+",
-			"",
-			"+---------------------------------------------------------------------------------------------------------------------------------------+\n| UNO - VER 8.5.                                           PALMAS SANTA FE S.A.                                      FECHA : 2014/09/17 |\n| UFCG9P02.P01                                    CENTROS DE COSTOS - CHEQUEO SEC/ANT/POS                            HORA  :  4:40 PM   |\n|                                                                                                                    PAGINA:       12   |\n| NIVEL DEL LISTADO: 8                                                                                                                  |\n+---------------------------------------------------------------------------------------------------------------------------------------+\n| CCOSTO  DESCRIPCION                            PADRE    CCOSTO_ANT CCOSTO_POS SECUENCIA GPOC T/D NIV                EST [ANT POS SEC] |\n+---------------------------------------------------------------------------------------------------------------------------------------+"
+			"align=\"right\""
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -859,14 +885,206 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "EP2	Evaluación	escrita",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 21.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -910,7 +1128,7 @@
 	"project": "jsSoundMix.sublime-project",
 	"replace":
 	{
-		"height": 38.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -918,6 +1136,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"variab",
+				"client\\bower_components\\bootstrap\\less\\variables.less"
+			],
 			[
 				"varia",
 				"client\\bower_components\\bootstrap\\less\\variables.less"
@@ -984,10 +1210,6 @@
 			],
 			[
 				"bowe",
-				"bower.json"
-			],
-			[
-				"bower",
 				"bower.json"
 			],
 			[

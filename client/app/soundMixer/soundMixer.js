@@ -6,17 +6,19 @@ angular.module('jsSoundMixApp')
             .state('soundMixer', {
                 url: '/soundMixer',
                 templateUrl: 'app/soundMixer/soundMixer.html',
-                controller: 'SoundmixerCtrl'
+                controller: 'SoundmixerCtrl',
+                authenticate: true
             });
     });
 
-var MyCtrl = ['$scope', '$upload', function($scope, $upload) {
+var MyCtrl = ['$scope', '$upload', function($scope, $upload){
     $scope.onFileSelect = function($files) {
         //$files: an array of files selected, each file has name, size, and type.
         for (var i = 0; i < $files.length; i++) {
             var file = $files[i];
             $scope.upload = $upload.upload({
-                url: 'server/api/url', //upload.php script, node.js route, or servlet url
+                url: '/api/audioFiles',
+                //upload.php script, node.js route, or servlet url
                 //method: 'POST' or 'PUT',
                 //headers: {'header-key': 'header-value'},
                 //withCredentials: true,

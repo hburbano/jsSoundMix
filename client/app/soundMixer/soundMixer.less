@@ -12,22 +12,33 @@
     border-bottom: red solid;
 }
 .booth-body {
-    border-bottom: red solid;
+    border-bottom: red solid;    
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 .booth-footer {
     position: absolute;
     padding: 5px;
     bottom: 0;
 }
+
+@button-size: 30px;
+@glyph-size: 12px;
+@border: 1px;
+
 .btn-rnd {
-    position: relative;
-    border-radius: 50%;
-    height: auto;
-    border: 5px solid black;
+  width: @button-size;
+  height: @button-size;
+  text-align: center;
+  font-size: @glyph-size;
+  padding: 0px (@button-size+-1-@glyph-size)/2;
+  border-radius: 2px;
 }
+
 .btn-span {
     vertical-align: middle;
 }
+
 .filebar {
     position: fixed;
     top: @navbar-height+1;
@@ -42,14 +53,17 @@
     background-color: #f5f5f5;
 }
 .filebar-header {
-    border-bottom: red solid;
 }
 .filebar-body {
     padding: 15px;
-    border-bottom: red solid;
+    
 }
 .filebar-footer {
     position: absolute;
     padding: 5px;
     bottom: 0;
+}
+.list-group-item{
+    padding: 5px 5px;
+    word-break: break-all;
 }
