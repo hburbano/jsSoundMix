@@ -8,8 +8,12 @@ var mongoose = require('mongoose'),
 
 var AudiofileSchema = new Schema({
     name: String,
-    info: String,
-    active: Boolean
+    MIME: String,
+    location: String,
+    //Kb
+    size: Number,
+    //Seconds
+    duration: Number
 });
 
 AudiofileSchema.plugin(crate, {

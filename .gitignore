@@ -1,6 +1,7 @@
 node_modules
 public
-*.sublime*
+*.sublime-project
+.mp3
 .tmp
 .idea
 client/bower_components

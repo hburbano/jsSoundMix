@@ -28,12 +28,10 @@ exports.show = function(req, res) {
 
 // Creates a new audioFile in the DB.
 exports.create = function(req, res) {
-    Audiofile.create(req.body, function(err, audioFile) {
-        if (err) {
-            return handleError(res, err);
-        }
-        return res.json(201, audioFile);
-    });
+    Audiofile.create(req.body, function(err, thing) {
+    if(err) { return handleError(res, err); }
+    return res.json(201, thing);
+  });
 };
 
 // Updates an existing audioFile in the DB.

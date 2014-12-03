@@ -30,7 +30,7 @@
 
         </div>
 
-        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 filebar">
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 filebar" ng-controller="FileUploadCtrl">
 
             <div class="filebar-header">
                 <h2>
@@ -38,17 +38,13 @@
                 </h2>
             </div>
             <div class="filebar-body">
-                <ul class="list-group">
-                    <li class="list-group-item"><span class="badge">3:21 123.Kb</span>Crasjustoodio.mp3</li>
-                    <li class="list-group-item"><span class="badge">3:21 123.Kb</span>Dapibusacfnsecte tuacilisisin.mp3</li>
-                    <li class="list-group-item"><span class="badge">3:21 123.Kb</span>MorbileoriPortaacconsectetuPortaacco nsectetusus.mp3</li>
-                    <li class="list-group-item"><span class="badge">3:21 123.Kb</span>PortaacconsectetuPortaa cconsectetuPortaacconsecteturac.mp3</li>
-                    <li class="list-group-item"><span class="badge">3:21 123.Kb</span>Vestibulumateros.mp3</li>
+                <ul class="list-group" ng-repeat="audiof in demoAudio">
+                    <li id="{{audiof.name}}" class="list-group-item"><span class="badge">{{audiof.duration*1000 | date:'mm:ss'}} {{audiof.size}}Kb</span>{{audiof.name}}</li>
                 </ul>
 
             </div>
             <div class="filebar-footer">
-                <div ng-file-select="onFileSelect($files)" data-multiple="true" title="select file" onclick="this.value = null" class="upload-button">
+                <div ng-file-select="onFileSelect($files)" data-multiple="true" title="select file" onclick="this.value = null" class="upload-button" class="upload-button">
                     <button type="button" class="btn btn-default btn-md">
                         <span class="fa fa-cloud-upload" aria-hidden="true"></span>&nbsp;UPLOAD
                     </button>
